@@ -16,8 +16,9 @@ class XFilesSeason < Array
     detect { |ep| ep.title.downcase == title.downcase }
   end
 
-  def next_in_mytharc(title = nil)
-    starting_index = title.nil? ? 0 : index(find_by_title(title)) + 1
+  def next_in_mytharc(title)
+    raise 'title required' if title.nil?
+    starting_index = title.nil? ? 0 : index(find_by_title(title))
     slice(starting_index..-1).detect { |ep| ep.mytharc? }
   end
 end

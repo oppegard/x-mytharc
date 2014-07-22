@@ -72,11 +72,13 @@ describe EpisodeFinder do
     end
 
     describe '#next_in_mytharc' do
-      specify { expect(subject.next_in_mytharc).to eq subject.first }
-      specify { expect(subject.next_in_mytharc('Pilot')).to eq subject[1] }
+      specify { expect { subject.next_in_mytharc(nil) }.to raise_error(/title required/) }
+      specify { expect(subject.next_in_mytharc('Pilot')).to eq subject.first }
+      specify { expect(subject.next_in_mytharc('deep throat')).to eq subject[1] }
+      specify { expect(subject.next_in_mytharc('Squeeze')).to eq subject.find_by_title('Conduit') }
       specify { expect(subject.next_in_mytharc('Shadows')).to eq subject.find_by_title('Fallen Angel') }
-      specify { expect(subject.next_in_mytharc('The Erlenmeyer Flask')).to be nil }
+      specify { expect(subject.next_in_mytharc('Fallen Angel')).to eq subject.find_by_title('Fallen Angel') }
+      specify { expect(subject.next_in_mytharc('The Erlenmeyer Flask')).to be subject.last }
     end
-
   end
 end
