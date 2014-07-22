@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<Show>
+<name>The X-Files</name>
+<totalseasons>9</totalseasons>
+<Episodelist>
+
+<Season no="1">
+<episode mytharc="true"><epnum>1</epnum><seasonnum>01</seasonnum><prodnum>1X79</prodnum><airdate>1993-09-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217095</link><title>Pilot</title></episode>
+<episode mytharc="true"><epnum>2</epnum><seasonnum>02</seasonnum><prodnum>1X01</prodnum><airdate>1993-09-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217096</link><title>Deep Throat</title></episode>
+<episode><epnum>3</epnum><seasonnum>03</seasonnum><prodnum>1X02</prodnum><airdate>1993-09-24</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217097</link><title>Squeeze</title></episode>
+<episode mytharc="true"><epnum>4</epnum><seasonnum>04</seasonnum><prodnum>1X03</prodnum><airdate>1993-10-01</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217098</link><title>Conduit</title></episode>
+<episode><epnum>5</epnum><seasonnum>05</seasonnum><prodnum>1X04</prodnum><airdate>1993-10-08</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217099</link><title>The Jersey Devil</title></episode>
+<episode><epnum>6</epnum><seasonnum>06</seasonnum><prodnum>1X05</prodnum><airdate>1993-10-22</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217100</link><title>Shadows</title></episode>
+<episode><epnum>7</epnum><seasonnum>07</seasonnum><prodnum>1X06</prodnum><airdate>1993-10-29</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217101</link><title>Ghost in the Machine</title></episode>
+<episode><epnum>8</epnum><seasonnum>08</seasonnum><prodnum>1X07</prodnum><airdate>1993-11-05</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217102</link><title>Ice</title></episode>
+<episode><epnum>9</epnum><seasonnum>09</seasonnum><prodnum>1X08</prodnum><airdate>1993-11-12</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217103</link><title>Space</title></episode>
+<episode mytharc="true"><epnum>10</epnum><seasonnum>10</seasonnum><prodnum>1X09</prodnum><airdate>1993-11-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217104</link><title>Fallen Angel</title></episode>
+<episode><epnum>11</epnum><seasonnum>11</seasonnum><prodnum>1X10</prodnum><airdate>1993-12-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217105</link><title>Eve</title></episode>
+<episode><epnum>12</epnum><seasonnum>12</seasonnum><prodnum>1X11</prodnum><airdate>1993-12-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217106</link><title>Fire</title></episode>
+<episode><epnum>13</epnum><seasonnum>13</seasonnum><prodnum>1X12</prodnum><airdate>1994-01-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217107</link><title>Beyond the Sea</title></episode>
+<episode><epnum>14</epnum><seasonnum>14</seasonnum><prodnum>1X13</prodnum><airdate>1994-01-21</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217108</link><title>Gender Bender</title></episode>
+<episode><epnum>15</epnum><seasonnum>15</seasonnum><prodnum>1X14</prodnum><airdate>1994-02-04</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217109</link><title>Lazarus</title></episode>
+<episode><epnum>16</epnum><seasonnum>16</seasonnum><prodnum>1X15</prodnum><airdate>1994-02-11</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217110</link><title>Young at Heart</title></episode>
+<episode mytharc="true"><epnum>17</epnum><seasonnum>17</seasonnum><prodnum>1X16</prodnum><airdate>1994-02-18</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217111</link><title>E.B.E.</title></episode>
+<episode><epnum>18</epnum><seasonnum>18</seasonnum><prodnum>1X17</prodnum><airdate>1994-03-18</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217112</link><title>Miracle Man</title></episode>
+<episode><epnum>19</epnum><seasonnum>19</seasonnum><prodnum>1X18</prodnum><airdate>1994-04-01</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217113</link><title>Shapes</title></episode>
+<episode><epnum>20</epnum><seasonnum>20</seasonnum><prodnum>1X19</prodnum><airdate>1994-04-15</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217114</link><title>Darkness Falls</title></episode>
+<episode><epnum>21</epnum><seasonnum>21</seasonnum><prodnum>1X20</prodnum><airdate>1994-04-22</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217115</link><title>Tooms</title></episode>
+<episode><epnum>22</epnum><seasonnum>22</seasonnum><prodnum>1X21</prodnum><airdate>1994-04-29</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217116</link><title>Born Again</title></episode>
+<episode><epnum>23</epnum><seasonnum>23</seasonnum><prodnum>1X22</prodnum><airdate>1994-05-06</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217117</link><title>Roland</title></episode>
+<episode mytharc="true"><epnum>24</epnum><seasonnum>24</seasonnum><prodnum>1X23</prodnum><airdate>1994-05-13</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217118</link><title>The Erlenmeyer Flask</title></episode>
+</Season>
+
+<Season no="2">
+<episode><epnum>25</epnum><seasonnum>01</seasonnum><prodnum>2X01</prodnum><airdate>1994-09-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217119</link><title>Little Green Men</title></episode>
+<episode><epnum>26</epnum><seasonnum>02</seasonnum><prodnum>2X02</prodnum><airdate>1994-09-23</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217120</link><title>The Host</title></episode>
+<episode><epnum>27</epnum><seasonnum>03</seasonnum><prodnum>2X03</prodnum><airdate>1994-09-30</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217121</link><title>Blood</title></episode>
+<episode><epnum>28</epnum><seasonnum>04</seasonnum><prodnum>2X04</prodnum><airdate>1994-10-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217122</link><title>Sleepless</title></episode>
+<episode><epnum>29</epnum><seasonnum>05</seasonnum><prodnum>2X05</prodnum><airdate>1994-10-14</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217123</link><title>Duane Barry (1)</title></episode>
+<episode><epnum>30</epnum><seasonnum>06</seasonnum><prodnum>2X06</prodnum><airdate>1994-10-21</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217124</link><title>Ascension (2)</title></episode>
+<episode><epnum>31</epnum><seasonnum>07</seasonnum><prodnum>2X07</prodnum><airdate>1994-11-04</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217125</link><title>3</title></episode>
+<episode><epnum>32</epnum><seasonnum>08</seasonnum><prodnum>2X08</prodnum><airdate>1994-11-11</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217126</link><title>One Breath</title></episode>
+<episode><epnum>33</epnum><seasonnum>09</seasonnum><prodnum>2X09</prodnum><airdate>1994-11-18</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217127</link><title>Firewalker</title></episode>
+<episode><epnum>34</epnum><seasonnum>10</seasonnum><prodnum>2X10</prodnum><airdate>1994-12-09</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217128</link><title>Red Museum</title></episode>
+<episode><epnum>35</epnum><seasonnum>11</seasonnum><prodnum>2X11</prodnum><airdate>1994-12-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217129</link><title>Excelsis Dei</title></episode>
+<episode><epnum>36</epnum><seasonnum>12</seasonnum><prodnum>2X12</prodnum><airdate>1995-01-06</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217130</link><title>Aubrey</title></episode>
+<episode><epnum>37</epnum><seasonnum>13</seasonnum><prodnum>2X13</prodnum><airdate>1995-01-13</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217131</link><title>Irresistible</title></episode>
+<episode><epnum>38</epnum><seasonnum>14</seasonnum><prodnum>2X14</prodnum><airdate>1995-01-27</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217132</link><title>Die Hand die Verletzt</title></episode>
+<episode><epnum>39</epnum><seasonnum>15</seasonnum><prodnum>2X15</prodnum><airdate>1995-02-03</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217133</link><title>Fresh Bones</title></episode>
+<episode><epnum>40</epnum><seasonnum>16</seasonnum><prodnum>2X16</prodnum><airdate>1995-02-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217134</link><title>Colony (1)</title></episode>
+<episode><epnum>41</epnum><seasonnum>17</seasonnum><prodnum>2X17</prodnum><airdate>1995-02-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217135</link><title>End Game (2)</title></episode>
+<episode><epnum>42</epnum><seasonnum>18</seasonnum><prodnum>2X18</prodnum><airdate>1995-02-24</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217136</link><title>Fearful Symmetry</title></episode>
+<episode><epnum>43</epnum><seasonnum>19</seasonnum><prodnum>2X19</prodnum><airdate>1995-03-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217137</link><title>Død Kalm</title></episode>
+<episode><epnum>44</epnum><seasonnum>20</seasonnum><prodnum>2X20</prodnum><airdate>1995-03-31</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217138</link><title>Humbug</title></episode>
+<episode><epnum>45</epnum><seasonnum>21</seasonnum><prodnum>2X21</prodnum><airdate>1995-04-14</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217139</link><title>The Calusari</title></episode>
+<episode><epnum>46</epnum><seasonnum>22</seasonnum><prodnum>2X22</prodnum><airdate>1995-04-28</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217140</link><title>F. Emasculata</title></episode>
+<episode><epnum>47</epnum><seasonnum>23</seasonnum><prodnum>2X23</prodnum><airdate>1995-05-05</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217141</link><title>Soft Light</title></episode>
+<episode><epnum>48</epnum><seasonnum>24</seasonnum><prodnum>2X24</prodnum><airdate>1995-05-12</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217142</link><title>Our Town</title></episode>
+<episode><epnum>49</epnum><seasonnum>25</seasonnum><prodnum>2X25</prodnum><airdate>1995-05-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217143</link><title>Anasazi (1)</title></episode>
+</Season>
+
+<Season no="3">
+<episode><epnum>50</epnum><seasonnum>01</seasonnum><prodnum>3X01</prodnum><airdate>1995-09-22</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217144</link><title>The Blessing Way (2)</title></episode>
+<episode><epnum>51</epnum><seasonnum>02</seasonnum><prodnum>3X02</prodnum><airdate>1995-09-29</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217145</link><title>Paper Clip (3)</title></episode>
+<episode><epnum>52</epnum><seasonnum>03</seasonnum><prodnum>3X03</prodnum><airdate>1995-10-06</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217146</link><title>D.P.O.</title></episode>
+<episode><epnum>53</epnum><seasonnum>04</seasonnum><prodnum>3X04</prodnum><airdate>1995-10-13</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217147</link><title>Clyde Bruckman's Final Repose</title></episode>
+<episode><epnum>54</epnum><seasonnum>05</seasonnum><prodnum>3X05</prodnum><airdate>1995-10-20</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217148</link><title>The List</title></episode>
+<episode><epnum>55</epnum><seasonnum>06</seasonnum><prodnum>3X06</prodnum><airdate>1995-11-03</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217149</link><title>2Shy</title></episode>
+<episode><epnum>56</epnum><seasonnum>07</seasonnum><prodnum>3X07</prodnum><airdate>1995-11-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217150</link><title>The Walk</title></episode>
+<episode><epnum>57</epnum><seasonnum>08</seasonnum><prodnum>3X08</prodnum><airdate>1995-11-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217151</link><title>Oubliette</title></episode>
+<episode><epnum>58</epnum><seasonnum>09</seasonnum><prodnum>3X09</prodnum><airdate>1995-11-24</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217152</link><title>Nisei (1)</title></episode>
+<episode><epnum>59</epnum><seasonnum>10</seasonnum><prodnum>3X10</prodnum><airdate>1995-12-01</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217153</link><title>731 (2)</title></episode>
+<episode><epnum>60</epnum><seasonnum>11</seasonnum><prodnum>3X11</prodnum><airdate>1995-12-15</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217154</link><title>Revelations</title></episode>
+<episode><epnum>61</epnum><seasonnum>12</seasonnum><prodnum>3X12</prodnum><airdate>1996-01-05</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217155</link><title>War of the Coprophages</title></episode>
+<episode><epnum>62</epnum><seasonnum>13</seasonnum><prodnum>3X13</prodnum><airdate>1996-01-26</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217156</link><title>Syzygy</title></episode>
+<episode><epnum>63</epnum><seasonnum>14</seasonnum><prodnum>3X14</prodnum><airdate>1996-02-02</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217157</link><title>Grotesque</title></episode>
+<episode><epnum>64</epnum><seasonnum>15</seasonnum><prodnum>3X15</prodnum><airdate>1996-02-09</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217158</link><title>Piper Maru (1)</title></episode>
+<episode><epnum>65</epnum><seasonnum>16</seasonnum><prodnum>3X16</prodnum><airdate>1996-02-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217159</link><title>Apocrypha (2)</title></episode>
+<episode><epnum>66</epnum><seasonnum>17</seasonnum><prodnum>3X17</prodnum><airdate>1996-02-23</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217160</link><title>Pusher</title></episode>
+<episode><epnum>67</epnum><seasonnum>18</seasonnum><prodnum>3X18</prodnum><airdate>1996-03-08</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217161</link><title>Teso dos Bichos</title></episode>
+<episode><epnum>68</epnum><seasonnum>19</seasonnum><prodnum>3X19</prodnum><airdate>1996-03-29</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217162</link><title>Hell Money</title></episode>
+<episode><epnum>69</epnum><seasonnum>20</seasonnum><prodnum>3X20</prodnum><airdate>1996-04-12</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217163</link><title>Jose Chung's From Outer Space</title></episode>
+<episode><epnum>70</epnum><seasonnum>21</seasonnum><prodnum>3X21</prodnum><airdate>1996-04-26</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217164</link><title>Avatar</title></episode>
+<episode><epnum>71</epnum><seasonnum>22</seasonnum><prodnum>3X22</prodnum><airdate>1996-05-03</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217165</link><title>Quagmire</title></episode>
+<episode><epnum>72</epnum><seasonnum>23</seasonnum><prodnum>3X23</prodnum><airdate>1996-05-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217166</link><title>Wetwired</title></episode>
+<episode><epnum>73</epnum><seasonnum>24</seasonnum><prodnum>3X24</prodnum><airdate>1996-05-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217167</link><title>Talitha Cumi (1)</title></episode>
+</Season>
+
+<Season no="4">
+<episode><epnum>74</epnum><seasonnum>01</seasonnum><prodnum>4X01</prodnum><airdate>1996-10-04</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217168</link><title>Herrenvolk (2)</title></episode>
+<episode><epnum>75</epnum><seasonnum>02</seasonnum><prodnum>4X03</prodnum><airdate>1996-10-11</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217169</link><title>Home</title></episode>
+<episode><epnum>76</epnum><seasonnum>03</seasonnum><prodnum>4X04</prodnum><airdate>1996-10-18</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217170</link><title>Teliko</title></episode>
+<episode><epnum>77</epnum><seasonnum>04</seasonnum><prodnum>4X02</prodnum><airdate>1996-10-27</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217171</link><title>Unruhe</title></episode>
+<episode><epnum>78</epnum><seasonnum>05</seasonnum><prodnum>4X05</prodnum><airdate>1996-11-03</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217172</link><title>The Field Where I Died</title></episode>
+<episode><epnum>79</epnum><seasonnum>06</seasonnum><prodnum>4X06</prodnum><airdate>1996-11-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217173</link><title>Sanguinarium</title></episode>
+<episode><epnum>80</epnum><seasonnum>07</seasonnum><prodnum>4X07</prodnum><airdate>1996-11-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217174</link><title>Musings of a Cigarette-Smoking Man</title></episode>
+<episode><epnum>81</epnum><seasonnum>08</seasonnum><prodnum>4X09</prodnum><airdate>1996-11-24</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217175</link><title>Tunguska (1)</title></episode>
+<episode><epnum>82</epnum><seasonnum>09</seasonnum><prodnum>4X10</prodnum><airdate>1996-12-01</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217176</link><title>Terma (2)</title></episode>
+<episode><epnum>83</epnum><seasonnum>10</seasonnum><prodnum>4X08</prodnum><airdate>1996-12-15</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217177</link><title>Paper Hearts</title></episode>
+<episode><epnum>84</epnum><seasonnum>11</seasonnum><prodnum>4X11</prodnum><airdate>1997-01-12</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217178</link><title>El Mundo Gira</title></episode>
+<episode><epnum>85</epnum><seasonnum>12</seasonnum><prodnum>4X14</prodnum><airdate>1997-01-26</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217179</link><title>Leonard Betts</title></episode>
+<episode><epnum>86</epnum><seasonnum>13</seasonnum><prodnum>4X13</prodnum><airdate>1997-02-02</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217180</link><title>Never Again</title></episode>
+<episode><epnum>87</epnum><seasonnum>14</seasonnum><prodnum>4X15</prodnum><airdate>1997-02-09</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217181</link><title>Memento Mori</title></episode>
+<episode><epnum>88</epnum><seasonnum>15</seasonnum><prodnum>4X12</prodnum><airdate>1997-02-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217182</link><title>Kaddish</title></episode>
+<episode><epnum>89</epnum><seasonnum>16</seasonnum><prodnum>4X16</prodnum><airdate>1997-02-23</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217183</link><title>Unrequited</title></episode>
+<episode><epnum>90</epnum><seasonnum>17</seasonnum><prodnum>4X17</prodnum><airdate>1997-03-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217184</link><title>Tempus Fugit (1)</title></episode>
+<episode><epnum>91</epnum><seasonnum>18</seasonnum><prodnum>4X18</prodnum><airdate>1997-03-23</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217185</link><title>Max (2)</title></episode>
+<episode><epnum>92</epnum><seasonnum>19</seasonnum><prodnum>4X19</prodnum><airdate>1997-04-13</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217186</link><title>Synchrony</title></episode>
+<episode><epnum>93</epnum><seasonnum>20</seasonnum><prodnum>4X20</prodnum><airdate>1997-04-20</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217187</link><title>Small Potatoes</title></episode>
+<episode><epnum>94</epnum><seasonnum>21</seasonnum><prodnum>4X21</prodnum><airdate>1997-04-27</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217188</link><title>Zero Sum</title></episode>
+<episode><epnum>95</epnum><seasonnum>22</seasonnum><prodnum>4X22</prodnum><airdate>1997-05-04</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217189</link><title>Elegy</title></episode>
+<episode><epnum>96</epnum><seasonnum>23</seasonnum><prodnum>4X23</prodnum><airdate>1997-05-11</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217190</link><title>Demons</title></episode>
+<episode><epnum>97</epnum><seasonnum>24</seasonnum><prodnum>4X24</prodnum><airdate>1997-05-18</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217191</link><title>Gethsemane (1)</title></episode>
+</Season>
+
+<Season no="5">
+<episode><epnum>98</epnum><seasonnum>01</seasonnum><prodnum>5X02</prodnum><airdate>1997-11-02</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217192</link><title>Redux (2)</title></episode>
+<episode><epnum>99</epnum><seasonnum>02</seasonnum><prodnum>5X03</prodnum><airdate>1997-11-09</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217193</link><title>Redux II (3)</title></episode>
+<episode><epnum>100</epnum><seasonnum>03</seasonnum><prodnum>5X01</prodnum><airdate>1997-11-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217194</link><title>Unusual Suspects</title></episode>
+<episode><epnum>101</epnum><seasonnum>04</seasonnum><prodnum>5X04</prodnum><airdate>1997-11-23</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217195</link><title>Detour</title></episode>
+<episode><epnum>102</epnum><seasonnum>05</seasonnum><prodnum>5X06</prodnum><airdate>1997-11-30</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217196</link><title>The Post-Modern Prometheus</title></episode>
+<episode><epnum>103</epnum><seasonnum>06</seasonnum><prodnum>5X05</prodnum><airdate>1997-12-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217197</link><title>Christmas Carol (1)</title></episode>
+<episode><epnum>104</epnum><seasonnum>07</seasonnum><prodnum>5X07</prodnum><airdate>1997-12-14</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217198</link><title>Emily (2)</title></episode>
+<episode><epnum>105</epnum><seasonnum>08</seasonnum><prodnum>5X08</prodnum><airdate>1998-01-04</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217199</link><title>Kitsunegari</title></episode>
+<episode><epnum>106</epnum><seasonnum>09</seasonnum><prodnum>5X09</prodnum><airdate>1998-01-11</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217200</link><title>Schizogeny</title></episode>
+<episode><epnum>107</epnum><seasonnum>10</seasonnum><prodnum>5X10</prodnum><airdate>1998-02-08</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217201</link><title>Chinga (orig. &quot;Bunghoney&quot;)</title></episode>
+<episode><epnum>108</epnum><seasonnum>11</seasonnum><prodnum>5X11</prodnum><airdate>1998-02-15</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217202</link><title>Kill Switch</title></episode>
+<episode><epnum>109</epnum><seasonnum>12</seasonnum><prodnum>5X12</prodnum><airdate>1998-02-22</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217203</link><title>Bad Blood</title></episode>
+<episode><epnum>110</epnum><seasonnum>13</seasonnum><prodnum>5X13</prodnum><airdate>1998-03-01</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217204</link><title>Patient X (1)</title></episode>
+<episode><epnum>111</epnum><seasonnum>14</seasonnum><prodnum>5X14</prodnum><airdate>1998-03-08</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217205</link><title>The Red and the Black (2)</title></episode>
+<episode><epnum>112</epnum><seasonnum>15</seasonnum><prodnum>5X15</prodnum><airdate>1998-03-29</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217206</link><title>Travelers</title></episode>
+<episode><epnum>113</epnum><seasonnum>16</seasonnum><prodnum>5X16</prodnum><airdate>1998-04-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217207</link><title>Mind's Eye</title></episode>
+<episode><epnum>114</epnum><seasonnum>17</seasonnum><prodnum>5X17</prodnum><airdate>1998-04-26</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217208</link><title>All Souls</title></episode>
+<episode><epnum>115</epnum><seasonnum>18</seasonnum><prodnum>5X18</prodnum><airdate>1998-05-03</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217209</link><title>The Pine Bluff Variant</title></episode>
+<episode><epnum>116</epnum><seasonnum>19</seasonnum><prodnum>5X19</prodnum><airdate>1998-05-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217210</link><title>Folie a Deux</title></episode>
+<episode><epnum>117</epnum><seasonnum>20</seasonnum><prodnum>5X20</prodnum><airdate>1998-05-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217211</link><title>The End</title></episode>
+</Season>
+
+<Season no="6">
+<episode><epnum>118</epnum><seasonnum>01</seasonnum><prodnum>6X01</prodnum><airdate>1998-11-08</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217212</link><title>The Beginning</title></episode>
+<episode><epnum>119</epnum><seasonnum>02</seasonnum><prodnum>6X02</prodnum><airdate>1998-11-15</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217213</link><title>Drive</title></episode>
+<episode><epnum>120</epnum><seasonnum>03</seasonnum><prodnum>6X03</prodnum><airdate>1998-11-22</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217214</link><title>Triangle</title></episode>
+<episode><epnum>121</epnum><seasonnum>04</seasonnum><prodnum>6X04</prodnum><airdate>1998-11-29</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217215</link><title>Dreamland (1)</title></episode>
+<episode><epnum>122</epnum><seasonnum>05</seasonnum><prodnum>6X05</prodnum><airdate>1998-12-06</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217216</link><title>Dreamland II (2)</title></episode>
+<episode><epnum>123</epnum><seasonnum>06</seasonnum><prodnum>6X08</prodnum><airdate>1998-12-13</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217217</link><title>How the Ghosts Stole Christmas</title></episode>
+<episode><epnum>124</epnum><seasonnum>07</seasonnum><prodnum>6X06</prodnum><airdate>1999-01-03</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217218</link><title>Terms of Endearment</title></episode>
+<episode><epnum>125</epnum><seasonnum>08</seasonnum><prodnum>6X07</prodnum><airdate>1999-01-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217219</link><title>The Rain King</title></episode>
+<episode><epnum>126</epnum><seasonnum>09</seasonnum><prodnum>6X10</prodnum><airdate>1999-01-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217220</link><title>S.R. 819</title></episode>
+<episode><epnum>127</epnum><seasonnum>10</seasonnum><prodnum>6X09</prodnum><airdate>1999-01-24</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217221</link><title>Tithonus</title></episode>
+<episode><epnum>128</epnum><seasonnum>11</seasonnum><prodnum>6X11</prodnum><airdate>1999-02-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217222</link><title>Two Fathers (1)</title></episode>
+<episode><epnum>129</epnum><seasonnum>12</seasonnum><prodnum>6X12</prodnum><airdate>1999-02-14</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217223</link><title>One Son (2)</title></episode>
+<episode><epnum>130</epnum><seasonnum>13</seasonnum><prodnum>6X14</prodnum><airdate>1999-02-21</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217224</link><title>Agua Mala</title></episode>
+<episode><epnum>131</epnum><seasonnum>14</seasonnum><prodnum>6X15</prodnum><airdate>1999-02-28</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217225</link><title>Monday</title></episode>
+<episode><epnum>132</epnum><seasonnum>15</seasonnum><prodnum>6X13</prodnum><airdate>1999-03-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217226</link><title>Arcadia</title></episode>
+<episode><epnum>133</epnum><seasonnum>16</seasonnum><prodnum>6X16</prodnum><airdate>1999-03-28</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217227</link><title>Alpha</title></episode>
+<episode><epnum>134</epnum><seasonnum>17</seasonnum><prodnum>6X17</prodnum><airdate>1999-04-11</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217228</link><title>Trevor</title></episode>
+<episode><epnum>135</epnum><seasonnum>18</seasonnum><prodnum>6X18</prodnum><airdate>1999-04-18</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217229</link><title>Milagro</title></episode>
+<episode><epnum>136</epnum><seasonnum>19</seasonnum><prodnum>6X20</prodnum><airdate>1999-04-25</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217230</link><title>The Unnatural</title></episode>
+<episode><epnum>137</epnum><seasonnum>20</seasonnum><prodnum>6X19</prodnum><airdate>1999-05-02</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217231</link><title>Three of a Kind</title></episode>
+<episode><epnum>138</epnum><seasonnum>21</seasonnum><prodnum>6X21</prodnum><airdate>1999-05-09</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217232</link><title>Field Trip</title></episode>
+<episode><epnum>139</epnum><seasonnum>22</seasonnum><prodnum>6X22</prodnum><airdate>1999-05-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217233</link><title>Biogenesis (1)</title></episode>
+</Season>
+
+<Season no="7">
+<episode><epnum>140</epnum><seasonnum>01</seasonnum><prodnum>7ABX03</prodnum><airdate>1999-11-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217234</link><title>The Sixth Extinction (2)</title></episode>
+<episode><epnum>141</epnum><seasonnum>02</seasonnum><prodnum>7ABX04</prodnum><airdate>1999-11-14</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217235</link><title>The Sixth Extinction II: Amor Fati (3)</title></episode>
+<episode><epnum>142</epnum><seasonnum>03</seasonnum><prodnum>7ABX01</prodnum><airdate>1999-11-21</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217236</link><title>Hungry</title></episode>
+<episode><epnum>143</epnum><seasonnum>04</seasonnum><prodnum>7ABX05</prodnum><airdate>1999-11-28</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217237</link><title>Millennium</title></episode>
+<episode><epnum>144</epnum><seasonnum>05</seasonnum><prodnum>7ABX06</prodnum><airdate>1999-12-05</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217238</link><title>Rush</title></episode>
+<episode><epnum>145</epnum><seasonnum>06</seasonnum><prodnum>7ABX02</prodnum><airdate>1999-12-12</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217239</link><title>The Goldberg Variation</title></episode>
+<episode><epnum>146</epnum><seasonnum>07</seasonnum><prodnum>7ABX07</prodnum><airdate>2000-01-09</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217240</link><title>Orison</title></episode>
+<episode><epnum>147</epnum><seasonnum>08</seasonnum><prodnum>7ABX08</prodnum><airdate>2000-01-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217241</link><title>The Amazing Maleeni</title></episode>
+<episode><epnum>148</epnum><seasonnum>09</seasonnum><prodnum>7ABX09</prodnum><airdate>2000-01-23</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217242</link><title>Signs and Wonders</title></episode>
+<episode><epnum>149</epnum><seasonnum>10</seasonnum><prodnum>7ABX10</prodnum><airdate>2000-02-06</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217243</link><title>Sein und Zeit (1)</title></episode>
+<episode><epnum>150</epnum><seasonnum>11</seasonnum><prodnum>7ABX11</prodnum><airdate>2000-02-13</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217244</link><title>Closure (2)</title></episode>
+<episode><epnum>151</epnum><seasonnum>12</seasonnum><prodnum>7ABX12</prodnum><airdate>2000-02-20</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217245</link><title>X-Cops</title></episode>
+<episode><epnum>152</epnum><seasonnum>13</seasonnum><prodnum>7ABX13</prodnum><airdate>2000-02-27</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217246</link><title>First Person Shooter</title></episode>
+<episode><epnum>153</epnum><seasonnum>14</seasonnum><prodnum>7ABX14</prodnum><airdate>2000-03-12</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217247</link><title>Theef</title></episode>
+<episode><epnum>154</epnum><seasonnum>15</seasonnum><prodnum>7ABX15</prodnum><airdate>2000-03-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217248</link><title>En Ami</title></episode>
+<episode><epnum>155</epnum><seasonnum>16</seasonnum><prodnum>7ABX16</prodnum><airdate>2000-04-02</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217249</link><title>Chimera</title></episode>
+<episode><epnum>156</epnum><seasonnum>17</seasonnum><prodnum>7ABX17</prodnum><airdate>2000-04-09</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217250</link><title>all things</title></episode>
+<episode><epnum>157</epnum><seasonnum>18</seasonnum><prodnum>7ABX19</prodnum><airdate>2000-04-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217251</link><title>Brand X</title></episode>
+<episode><epnum>158</epnum><seasonnum>19</seasonnum><prodnum>7ABX18</prodnum><airdate>2000-04-30</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217252</link><title>Hollywood A.D.</title></episode>
+<episode><epnum>159</epnum><seasonnum>20</seasonnum><prodnum>7ABX20</prodnum><airdate>2000-05-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217253</link><title>Fight Club</title></episode>
+<episode><epnum>160</epnum><seasonnum>21</seasonnum><prodnum>7ABX21</prodnum><airdate>2000-05-14</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217254</link><title>Je Souhaite</title></episode>
+<episode><epnum>161</epnum><seasonnum>22</seasonnum><prodnum>7ABX22</prodnum><airdate>2000-05-21</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217255</link><title>Requiem</title></episode>
+</Season>
+
+<Season no="8">
+<episode><epnum>162</epnum><seasonnum>01</seasonnum><prodnum>8ABX01</prodnum><airdate>2000-11-05</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217256</link><title>Within (1)</title></episode>
+<episode><epnum>163</epnum><seasonnum>02</seasonnum><prodnum>8ABX02</prodnum><airdate>2000-11-12</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217257</link><title>Without (2)</title></episode>
+<episode><epnum>164</epnum><seasonnum>03</seasonnum><prodnum>8ABX04</prodnum><airdate>2000-11-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217258</link><title>Patience</title></episode>
+<episode><epnum>165</epnum><seasonnum>04</seasonnum><prodnum>8ABX05</prodnum><airdate>2000-11-26</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217259</link><title>Roadrunners</title></episode>
+<episode><epnum>166</epnum><seasonnum>05</seasonnum><prodnum>8ABX06</prodnum><airdate>2000-12-03</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217260</link><title>Invocation</title></episode>
+<episode><epnum>167</epnum><seasonnum>06</seasonnum><prodnum>8ABX03</prodnum><airdate>2000-12-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217261</link><title>Redrum</title></episode>
+<episode><epnum>168</epnum><seasonnum>07</seasonnum><prodnum>8ABX07</prodnum><airdate>2000-12-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217262</link><title>Via Negativa</title></episode>
+<episode><epnum>169</epnum><seasonnum>08</seasonnum><prodnum>8ABX09</prodnum><airdate>2001-01-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217263</link><title>Surekill</title></episode>
+<episode><epnum>170</epnum><seasonnum>09</seasonnum><prodnum>8ABX10</prodnum><airdate>2001-01-14</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217264</link><title>Salvage</title></episode>
+<episode><epnum>171</epnum><seasonnum>10</seasonnum><prodnum>8ABX12</prodnum><airdate>2001-01-21</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217265</link><title>Badlaa</title></episode>
+<episode><epnum>172</epnum><seasonnum>11</seasonnum><prodnum>8ABX11</prodnum><airdate>2001-02-04</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217266</link><title>The Gift</title></episode>
+<episode><epnum>173</epnum><seasonnum>12</seasonnum><prodnum>8ABX13</prodnum><airdate>2001-02-11</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217267</link><title>Medusa</title></episode>
+<episode><epnum>174</epnum><seasonnum>13</seasonnum><prodnum>8ABX08</prodnum><airdate>2001-02-18</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217268</link><title>Per Manum</title></episode>
+<episode><epnum>175</epnum><seasonnum>14</seasonnum><prodnum>8ABX14</prodnum><airdate>2001-02-25</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217269</link><title>This is Not Happening (1)</title></episode>
+<episode><epnum>176</epnum><seasonnum>15</seasonnum><prodnum>8ABX15</prodnum><airdate>2001-04-01</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217270</link><title>DeadAlive (2)</title></episode>
+<episode><epnum>177</epnum><seasonnum>16</seasonnum><prodnum>8ABX18</prodnum><airdate>2001-04-08</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217271</link><title>Three Words</title></episode>
+<episode><epnum>178</epnum><seasonnum>17</seasonnum><prodnum>8ABX17</prodnum><airdate>2001-04-15</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217272</link><title>Empedocles</title></episode>
+<episode><epnum>179</epnum><seasonnum>18</seasonnum><prodnum>8ABX16</prodnum><airdate>2001-04-22</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217273</link><title>Vienen</title></episode>
+<episode><epnum>180</epnum><seasonnum>19</seasonnum><prodnum>8ABX19</prodnum><airdate>2001-05-06</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217274</link><title>Alone</title></episode>
+<episode><epnum>181</epnum><seasonnum>20</seasonnum><prodnum>8ABX20</prodnum><airdate>2001-05-13</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217275</link><title>Essence (1)</title></episode>
+<episode><epnum>182</epnum><seasonnum>21</seasonnum><prodnum>8ABX21</prodnum><airdate>2001-05-20</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217276</link><title>Existence (2)</title></episode>
+</Season>
+
+<Season no="9">
+<episode><epnum>183</epnum><seasonnum>01</seasonnum><prodnum>9ABX01</prodnum><airdate>2001-11-11</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217277</link><title>Nothing Important Happened Today (1)</title></episode>
+<episode><epnum>184</epnum><seasonnum>02</seasonnum><prodnum>9ABX02</prodnum><airdate>2001-11-18</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217278</link><title>Nothing Important Happened Today II (2)</title></episode>
+<episode><epnum>185</epnum><seasonnum>03</seasonnum><prodnum>9ABX03</prodnum><airdate>2001-12-02</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217279</link><title>Dæmonicus</title></episode>
+<episode><epnum>186</epnum><seasonnum>04</seasonnum><prodnum>9ABX05</prodnum><airdate>2001-12-09</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217280</link><title>4-D</title></episode>
+<episode><epnum>187</epnum><seasonnum>05</seasonnum><prodnum>9ABX06</prodnum><airdate>2001-12-16</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217281</link><title>Lord of the Flies</title></episode>
+<episode><epnum>188</epnum><seasonnum>06</seasonnum><prodnum>9ABX08</prodnum><airdate>2002-01-06</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217282</link><title>Trust No 1</title></episode>
+<episode><epnum>189</epnum><seasonnum>07</seasonnum><prodnum>9ABX07</prodnum><airdate>2002-01-13</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217283</link><title>John Doe</title></episode>
+<episode><epnum>190</epnum><seasonnum>08</seasonnum><prodnum>9ABX04</prodnum><airdate>2002-01-27</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217284</link><title>Hellbound</title></episode>
+<episode><epnum>191</epnum><seasonnum>09</seasonnum><prodnum>9ABX10</prodnum><airdate>2002-03-03</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217285</link><title>Provenance (1)</title></episode>
+<episode><epnum>192</epnum><seasonnum>10</seasonnum><prodnum>9ABX11</prodnum><airdate>2002-03-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217286</link><title>Providence (2)</title></episode>
+<episode><epnum>193</epnum><seasonnum>11</seasonnum><prodnum>9ABX13</prodnum><airdate>2002-03-17</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217287</link><title>Audrey Pauley</title></episode>
+<episode><epnum>194</epnum><seasonnum>12</seasonnum><prodnum>9ABX09</prodnum><airdate>2002-03-31</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217288</link><title>Underneath</title></episode>
+<episode><epnum>195</epnum><seasonnum>13</seasonnum><prodnum>9ABX14</prodnum><airdate>2002-04-07</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217289</link><title>Improbable</title></episode>
+<episode><epnum>196</epnum><seasonnum>14</seasonnum><prodnum>9ABX12</prodnum><airdate>2002-04-14</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217290</link><title>Scary Monsters</title></episode>
+<episode><epnum>197</epnum><seasonnum>15</seasonnum><prodnum>9ABX15</prodnum><airdate>2002-04-21</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217291</link><title>Jump the Shark</title></episode>
+<episode><epnum>198</epnum><seasonnum>16</seasonnum><prodnum>9ABX17</prodnum><airdate>2002-04-28</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217292</link><title>William</title></episode>
+<episode><epnum>199</epnum><seasonnum>17</seasonnum><prodnum>9ABX16</prodnum><airdate>2002-05-05</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217293</link><title>Release</title></episode>
+<episode><epnum>200</epnum><seasonnum>18</seasonnum><prodnum>9ABX18</prodnum><airdate>2002-05-12</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217294</link><title>Sunshine Days</title></episode>
+<episode><epnum>201</epnum><seasonnum>19</seasonnum><prodnum>9ABX19</prodnum><airdate>2002-05-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217295</link><title>The Truth (1)</title></episode>
+<episode><epnum>202</epnum><seasonnum>20</seasonnum><prodnum>9ABX20</prodnum><airdate>2002-05-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217296</link><title>The Truth (2)</title></episode>
+</Season>
+
+<Special>
+<episode><season>2</season><airdate>1995-05-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217297</link><title>The Secrets of the X-Files</title></episode>
+<episode><season>3</season><airdate>1996-05-10</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217298</link><title>More Secrets of the X-Files</title></episode>
+<episode><season>5</season><airdate>1998-02-01</airdate><link>http://www.tvrage.com/The_X-Files/episodes/217299</link><title>Inside The X-Files</title></episode>
+</Special>
+
+<Movie>
+<episode><season>5</season><airdate>1998-06-19</airdate><link>http://www.tvrage.com/The_X-Files/episodes/1065045839</link><title>The X-Files: Fight The Future</title></episode>
+<episode><season>9</season><airdate>2008-07-25</airdate><link>http://www.tvrage.com/The_X-Files/episodes/1065045840</link><title>The X-Files: I Want To Believe</title></episode>
+</Movie>
+
+</Episodelist>
+
+</Show>
