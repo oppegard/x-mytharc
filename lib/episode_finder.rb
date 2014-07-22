@@ -27,8 +27,9 @@ require 'date'
 class XFilesEpisode < OpenStruct
   def self.from_xml(xml)
     ep_args = xml.children.to_a.reduce({}) { |memo, e| memo.merge(e.name.to_sym => e.inner_text) }
-    ep_args[:epnum] = ep_args.fetch(:epnum).to_i
     ep_args[:airdate] = Date.parse(ep_args.fetch(:airdate))
+    ep_args[:epnum] = ep_args.fetch(:epnum).to_i
+    ep_args[:seasonnum] = ep_args.fetch(:seasonnum).to_i
     mytharc = xml['mytharc'] == 'true' ? true : false
     XFilesEpisode.new(ep_args.merge(mytharc?: mytharc))
   end
